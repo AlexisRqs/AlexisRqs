@@ -6,7 +6,7 @@ I'm a **web developer** and **indie game developer**, passionate about WordPress
 
 ## 🚀 About Me
 - 🎯 Currently working on: interactive **Advent Calendars** for major retail brands.  
-- 🎮 Gamedev side projects: Unity & Godot prototypes (*RETRO HORDE, Idle Creator, Last Realm…*).  
+- 🎮 Gamedev side projects: Unity & Godot prototypes (*[**RETRO HORDE**](https://github.com/BIPBOOP-io/RETRO-HORDE), Idle Creator, Last Realm…*).  
 - 🎵 Music production on Ableton.
 
 
