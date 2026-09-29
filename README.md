@@ -1,72 +1,64 @@
-# 👋 Hi, I'm Alexis
+# Hi, I'm Alexis 👋
 
-Welcome to my GitHub profile!
-I'm a web developer, UI engineer and indie game developer focused on building high-performance web apps, design systems, and game-inspired interactive experiences.
+I'm a web developer, UI engineer and indie game developer.
+I build interactive experiences and reusable tools, from interface design
+and gameplay to deployment and analytics.
 
-I'm the founder of **BIP BOOP**, an independent game studio focused on creating original, stylish and gameplay-driven indie games.
-https://bipboop.io
+My work brings together frontend development, creative coding
+and production workflows.
 
+## What I'm building
 
-## 🚀 What I’m working on
-- Interactive Advent Calendars for major retail brands
-- UI systems and components with Tailwind, shadcn/ui and React
-- Indie games in Godot and Unity (RETRO HORDE, Idle Creator, Last Realm)
-- Scalable delivery with Vercel, AWS and CloudFront
+### POLARIZED Games
+A growing collection of browser games and interactive campaign tools.
 
+I'm working on reusable game mechanics, configurable templates
+and standalone builds that make it easier to turn a creative concept
+into a playable experience.
 
-## 🎮 RETRO HORDE
-**RETRO HORDE** is a fast-paced arcade roguelite inspired by Vampire Survivors, built with a pixel-art style and tight, responsive gameplay.
+### POLARIZED Toolkit
+WordPress tooling for interactive campaigns, including promotional games,
+participation flows and analytics integrations.
 
-Play the demo here:  
-https://bipboop.io/play/retro-horde/
+A big part of this work is making recurring campaigns easier to configure,
+test and maintain.
 
+### BIP BOOP
+My independent game studio, focused on original games,
+distinctive visuals and satisfying gameplay.
 
-## 🧠 My stack
+🎮 [Play RETRO HORDE](https://bipboop.io/play/retro-horde/)
+ · [Explore BIP BOOP](https://bipboop.io)
 
-### 🎨 Frontend & UI
-- React / Next.js  
-- Tailwind CSS  
-- shadcn/ui  
-- Radix UI  
-- Framer Motion  
-- Figma (design systems, UI kits, prototyping)
+## What I work on
 
-### 🌐 Web & CMS
-- WordPress (Elementor, ACF, Dynamic Content, WooCommerce)  
-- Headless-friendly architectures  
-- SEO and performance-optimized landing pages  
+- **Interactive experiences** — browser games, promotional campaigns
+  and interactive Advent calendars.
+- **UI engineering** — responsive interfaces, reusable components
+  and design systems built from Figma to code.
+- **Production tooling** — shared mechanics, configuration workflows
+  and automation that reduce repetitive work.
+- **Delivery & reliability** — CI/CD, cloud hosting, performance,
+  analytics and end-to-end verification.
 
-### ⚙️ Backend & Infra
-- Supabase  
-- AWS (EC2, S3, CloudFront, IAM, Lambda@Edge)  
-- Cloudflare  
-- Vercel  
-- Plesk  
-- Node.js, PHP, Python  
+## Tools I work with
 
-### 🎮 Game Development
-- Godot (GDScript)  
-- Unity (C#)  
-- Aseprite (Pixel Art)  
-- Custom UI systems and game UX  
+| Area | Technologies |
+| --- | --- |
+| Frontend & UI | React, Next.js, Tailwind CSS, shadcn/ui, Figma |
+| Web & backend | WordPress, Elementor, PHP, Node.js, Python, Supabase |
+| Games | Godot, Unity, PixiJS, C#, Aseprite |
+| Infrastructure | AWS, CloudFront, Cloudflare, Vercel, Plesk |
+| Analytics & delivery | Matomo, Git, GitHub Actions |
 
-### 📊 Data & Tooling
-- Matomo (self-hosted analytics)  
-- Stripe (payments and subscriptions)  
-- Git, GitHub, CI/CD  
-- Docker (basics)  
+## How I build
 
+I like turning one-off solutions into reusable systems.
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexisrqs&show_icons=true&theme=radical)
+That means separating content and configuration from core logic,
+testing real user journeys, and checking what actually runs
+after deployment.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisrqs&layout=compact&theme=radical)
+## Find me
 
-
-## 📫 Connect with me
-- https://alexisrqs.com  
-- https://bipboop.io  
-- https://www.youtube.com/@VOYD__/  
-- https://soundcloud.com/itsvoyd  
-
-Thanks for stopping by! Feel free to explore my projects and drop a star if something catches your eye.
+[Website](https://alexisrqs.com) · [BIP BOOP](https://bipboop.io)
