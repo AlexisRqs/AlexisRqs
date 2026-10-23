@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="575" height="300" viewBox="0 0 575 300" role="img"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E20"/><stop offset=".58" stop-color="#10132D"/><stop offset="1" stop-color="#100D21"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#50E7F7"/><stop offset=".52" stop-color="#9B7EFF"/><stop offset="1" stop-color="#FB79B9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#795DF7" stop-opacity=".48"/><stop offset="1" stop-color="#795DF7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#7787BC" stroke-opacity=".12" stroke-width="1"/></pattern>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+
+<rect width="575" height="300" rx="22" fill="url(#bg)"/><rect width="575" height="300" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="573" height="298" rx="21" fill="none" stroke="#6667A4" stroke-opacity=".5"/>
+<circle cx="108" cy="152" r="200" fill="url(#halo)" opacity=".27"/>
+<path d="M246 36V264" stroke="#B9F97D" stroke-opacity=".33"/>
+<rect x="17" y="17" width="541" height="266" rx="14" fill="none" stroke="#B9F97D" stroke-opacity=".17"/>
+<text x="270" y="47" font-family="monospace" font-size="14" letter-spacing="1.6" fill="#B9F97D">BIP BOOP / 004</text>
+<text x="268" y="81" fill="#9BA8CD" font-family="monospace" font-size="14">VOXEL / FANTASY RPG</text>
+<text x="268" y="137" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="45" letter-spacing="-1.8">STONE</text><text x="268" y="187" fill="#B9F97D" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="45" letter-spacing="-1.8">VALE</text>
+<text x="270" y="218" fill="#F1F3FE" font-family="Arial,Helvetica,sans-serif" font-size="15">Explore a world built from blocks.</text>
+<path d="M269 247H537" stroke="#B9F97D" stroke-opacity=".39"/>
+<text x="270" y="270" fill="#8998BF" font-family="monospace" font-size="14">IN DEVELOPMENT  ↗</text>
+
+<path d="M15 240H242" stroke="#87D6A9" stroke-opacity=".28"/>
+<ellipse cx="124" cy="244" rx="90" ry="18" fill="#52C68C" opacity=".16" filter="url(#glow)"/>
+<polygon points="124,114 225,164 125,216 24,165" fill="#8FDE73" stroke="#C4FFA5" stroke-width="2"/>
+<polygon points="24,165 125,216 125,254 24,202" fill="#3C8657" stroke="#78C592"/>
+<polygon points="225,164 125,216 125,254 225,202" fill="#2E5A6B" stroke="#71A0A5"/>
+<path d="M72 142l100 51 M125 115L24 165 M172 140L74 190" stroke="#D0FFA9" stroke-opacity=".4"/>
+<g><rect x="96" y="97" width="43" height="44" fill="#9E95B4"/><polygon points="96,97 117,84 159,85 139,97" fill="#D1C5D8"/><polygon points="139,97 159,85 159,129 139,141" fill="#74688D"/></g>
+<path d="M58 147v-54 M49 112L58 74 68 112Z" fill="#6EFFB0" stroke="#4EF3A9" stroke-width="5"/><path d="M174 154v-43 M163 130l11 -37 12 37Z" fill="#76EF91" stroke="#75FBAD" stroke-width="5"/>
+<path d="M45 86l8 -8 9 8 -9 8Z M199 81l7 -7 7 7 -7 7Z" fill="#D5FF8A" opacity=".8"/>
+
+
+</svg>
