@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="322" viewBox="0 0 1200 322" role="img" aria-label="Alexis Roques — engineer, maker, indie game developer">
+<rect width="1200" height="322" rx="0" fill="#141615"/>
+<path d="M28 28H1172 M28 294H1172" stroke="#F0F0E7" stroke-width="1.4"/>
+<text x="49" y="58" font-family="monospace" font-size="16" font-weight="600" letter-spacing="1.7" fill="#ADB5A7">AR / 2026</text>
+<text x="814" y="58" font-family="monospace" font-size="15" letter-spacing="1.1" fill="#ADB5A7">WEB · PRODUCTS · GAMES</text>
+<path d="M784 77V270" stroke="#596055" stroke-width="1"/>
+<text x="42" y="162" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="108" letter-spacing="-6" fill="#F0F0E7">Alexis</text>
+<text x="42" y="263" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="108" letter-spacing="-6" fill="#F0F0E7">Roques<tspan fill="#CDF47B">.</tspan></text>
+<text x="817" y="118" font-family="monospace" font-size="15" font-weight="600" letter-spacing=".4" fill="#ADB5A7">01 / WORK</text>
+<text x="817" y="147" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#F0F0E7">Interactive products</text>
+<text x="817" y="184" font-family="monospace" font-size="15" font-weight="600" letter-spacing=".4" fill="#ADB5A7">02 / PLAY</text>
+<text x="817" y="213" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#F0F0E7">Independent games</text>
+<path d="M817 248H1150" stroke="#596055" stroke-width="1"/>
+<rect x="817" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="845" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="873" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="901" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="929" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="957" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="985" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="1013" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="1041" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="1069" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="1097" y="260" width="24" height="20" fill="#CDF47B"/>
+<rect x="1125" y="260" width="24" height="20" fill="#CDF47B"/>
+</svg>
