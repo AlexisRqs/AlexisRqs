@@ -1,64 +1,64 @@
+<div align="center">
+
 # Hi, I'm Alexis 👋
 
-I'm a web developer, UI engineer and indie game developer.
-I build interactive experiences and reusable tools, from interface design
-and gameplay to deployment and analytics.
+**Software engineer · UI engineer · Indie game developer**
 
-My work brings together frontend development, creative coding
-and production workflows.
+I build interactive experiences, practical tools and games — from the first prototype to the systems that keep them running.
 
-## What I'm building
+[**Portfolio**](https://alexisrqs.com/) · [**BIP BOOP**](https://bipboop.io/en/) · [**Play RETRO HORDE**](https://bipboop.io/en/play/retro-horde/)
 
-### POLARIZED Games
-A growing collection of browser games and interactive campaign tools.
+</div>
 
-I'm working on reusable game mechanics, configurable templates
-and standalone builds that make it easier to turn a creative concept
-into a playable experience.
+---
 
-### POLARIZED Toolkit
-WordPress tooling for interactive campaigns, including promotional games,
-participation flows and analytics integrations.
+## 🚧 What I'm building right now
 
-A big part of this work is making recurring campaigns easier to configure,
-test and maintain.
+### At POLARIZED — interactive experiences at scale
 
-### BIP BOOP
-My independent game studio, focused on original games,
-distinctive visuals and satisfying gameplay.
+I work on the engineering behind promotional games, campaign websites and the tools that make repeatable launches possible.
 
-🎮 [Play RETRO HORDE](https://bipboop.io/play/retro-horde/)
- · [Explore BIP BOOP](https://bipboop.io)
+- **POLARIZED Toolkit** — modular WordPress and Elementor tooling for interactive campaigns: participation flows, coupons, game integrations, CRM connections and analytics.
+- **POLARIZED Games** — reusable browser-game mechanics and configurable experiences, from instant-win games to other playable campaign formats.
+- **PRISM** — an internal operations dashboard bringing campaign delivery, Advent calendars, landing pages, play pages and tracking into one place.
+- **Production & reliability** — AWS infrastructure, asset delivery, deployment workflows, Matomo tracking and end-to-end validation.
 
-## What I work on
+Most of this production work lives in private repositories; the focus is on shipping maintainable tools that teams can reuse.
 
-- **Interactive experiences** — browser games, promotional campaigns
-  and interactive Advent calendars.
-- **UI engineering** — responsive interfaces, reusable components
-  and design systems built from Figma to code.
-- **Production tooling** — shared mechanics, configuration workflows
-  and automation that reduce repetitive work.
-- **Delivery & reliability** — CI/CD, cloud hosting, performance,
-  analytics and end-to-end verification.
+### At BIP BOOP — my independent game workshop
 
-## Tools I work with
+[**BIP BOOP**](https://bipboop.io/en/) is where I explore game ideas, playable prototypes, homebrew and tools for the fun of making things.
 
-| Area | Technologies |
+| Project | What I'm exploring | Status |
+| --- | --- | --- |
+| **[PMD Vita](https://bipboop.io/en/projects/pmd-vita/)** | An experimental native PlayStation Vita port of *Pokémon Mystery Dungeon: Red Rescue Team*, based on the community decompilation. | In development · No public download |
+| **[RETRO HORDE](https://bipboop.io/en/projects/retro-horde/)** | A Godot arcade-survival game with enemy waves, level-ups and upgrades. **[Play the browser demo →](https://bipboop.io/en/play/retro-horde/)** | Playable demo |
+| **[HAND LORD](https://bipboop.io/en/projects/hand-lord/)** | A turn-based deckbuilding roguelite with cards, relics and encounters. **[Try the browser demo →](https://bipboop.io/en/play/hand-lord/)** | Playable prototype |
+| **[STONEVALE](https://bipboop.io/en/projects/stonevale/)** | A voxel-world RPG prototype combining exploration, block building and an early adventure loop. | In development |
+
+*PMD Vita is an unofficial fan experiment, not affiliated with Pokémon or PlayStation. Its project page documents progress; it does not distribute game files.*
+
+## 🛠️ What I work with
+
+| Area | Tools & technologies |
 | --- | --- |
-| Frontend & UI | React, Next.js, Tailwind CSS, shadcn/ui, Figma |
-| Web & backend | WordPress, Elementor, PHP, Node.js, Python, Supabase |
-| Games | Godot, Unity, PixiJS, C#, Aseprite |
-| Infrastructure | AWS, CloudFront, Cloudflare, Vercel, Plesk |
-| Analytics & delivery | Matomo, Git, GitHub Actions |
+| **Frontend & UI** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Figma |
+| **Web & backend** | WordPress, Elementor, PHP, Node.js, Python, Supabase |
+| **Game development** | Godot, Unity, PixiJS, C#, Aseprite |
+| **Infrastructure** | AWS (EC2, S3, CloudFront), Cloudflare, Vercel, Plesk |
+| **Analytics & delivery** | Matomo, Git, GitHub Actions, end-to-end testing |
 
-## How I build
+## ⚙️ How I like to build
 
-I like turning one-off solutions into reusable systems.
+- **Make it reusable.** Turn one-off solutions into components, tools and systems that can support the next project.
+- **Care about the experience.** Make interfaces responsive, understandable and satisfying to use.
+- **Own the whole journey.** Move from Figma and prototype to implementation, deployment, analytics and maintenance.
+- **Verify what ships.** Test real user flows, not just isolated pieces of code.
 
-That means separating content and configuration from core logic,
-testing real user journeys, and checking what actually runs
-after deployment.
+---
 
-## Find me
+<div align="center">
 
-[Website](https://alexisrqs.com) · [BIP BOOP](https://bipboop.io)
+**Curious about the games?** [Explore BIP BOOP](https://bipboop.io/en/) · **Looking for my web work?** [Visit my portfolio](https://alexisrqs.com/)
+
+</div>
