@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="575" height="300" viewBox="0 0 575 300" role="img"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E20"/><stop offset=".58" stop-color="#10132D"/><stop offset="1" stop-color="#100D21"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#50E7F7"/><stop offset=".52" stop-color="#9B7EFF"/><stop offset="1" stop-color="#FB79B9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#795DF7" stop-opacity=".48"/><stop offset="1" stop-color="#795DF7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#7787BC" stroke-opacity=".12" stroke-width="1"/></pattern>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+
+<rect width="575" height="300" rx="22" fill="url(#bg)"/><rect width="575" height="300" rx="22" fill="url(#grid)"/><rect x="1" y="1" width="573" height="298" rx="21" fill="none" stroke="#6667A4" stroke-opacity=".5"/>
+<circle cx="108" cy="152" r="200" fill="url(#halo)" opacity=".27"/>
+<path d="M246 36V264" stroke="#FFBF84" stroke-opacity=".33"/>
+<rect x="17" y="17" width="541" height="266" rx="14" fill="none" stroke="#FFBF84" stroke-opacity=".17"/>
+<text x="270" y="47" font-family="monospace" font-size="14" letter-spacing="1.6" fill="#FFBF84">BIP BOOP / 003</text>
+<text x="268" y="81" fill="#9BA8CD" font-family="monospace" font-size="14">CARDS / ROGUELITE</text>
+<text x="268" y="137" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="45" letter-spacing="-1.8">HAND</text><text x="268" y="187" fill="#FFBF84" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="45" letter-spacing="-1.8">LORD</text>
+<text x="270" y="218" fill="#F1F3FE" font-family="Arial,Helvetica,sans-serif" font-size="15">Deckbuilding and tough choices.</text>
+<path d="M269 247H537" stroke="#FFBF84" stroke-opacity=".39"/>
+<text x="270" y="270" fill="#8998BF" font-family="monospace" font-size="14">PLAYABLE PROTOTYPE  ↗</text>
+
+<g transform="rotate(-19 91 167)"><rect x="46" y="65" width="108" height="178" rx="12" fill="#241728" stroke="#F08AA7" stroke-width="2"/><rect x="58" y="77" width="84" height="154" rx="7" fill="none" stroke="#FFDFB0" stroke-opacity=".5"/></g>
+<g transform="rotate(15 149 170)"><rect x="94" y="59" width="108" height="178" rx="12" fill="#25192F" stroke="#BB91FF" stroke-width="2"/><rect x="107" y="71" width="82" height="154" rx="6" fill="none" stroke="#F4CFAE" stroke-opacity=".53"/></g>
+<g><rect x="66" y="55" width="112" height="186" rx="13" fill="#211A2C" stroke="#FFC28D" stroke-width="3"/>
+<rect x="78" y="67" width="88" height="161" rx="7" fill="#34233E" stroke="#E6B27A" stroke-opacity=".6"/>
+<path d="M123 94l35 38 -35 53 -34 -53Z" fill="#F5B77C" opacity=".28" stroke="#FFCD94" stroke-width="3"/>
+<path d="M123 101v68 M109 134h29" stroke="#FFE6BD" stroke-width="3"/>
+<circle cx="123" cy="134" r="10" fill="#FFD597"/>
+<text x="114" y="211" fill="#FFD7A9" font-family="Georgia,serif" font-size="18">III</text>
+</g>
+
+
+</svg>
