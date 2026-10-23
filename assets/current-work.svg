@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090E20"/><stop offset=".58" stop-color="#10132D"/><stop offset="1" stop-color="#100D21"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#50E7F7"/><stop offset=".52" stop-color="#9B7EFF"/><stop offset="1" stop-color="#FB79B9"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#795DF7" stop-opacity=".48"/><stop offset="1" stop-color="#795DF7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M 30 0 L 0 0 0 30" fill="none" stroke="#7787BC" stroke-opacity=".12" stroke-width="1"/></pattern>
+<filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs>
+
+<rect width="1200" height="228" rx="23" fill="url(#bg)"/><rect width="1200" height="228" rx="23" fill="url(#grid)"/><rect x="1" y="1" width="1198" height="226" rx="22" fill="none" stroke="#6667A4" stroke-opacity=".5"/>
+<rect x="0" y="0" width="6" height="228" rx="3" fill="url(#edge)"/>
+<circle cx="840" cy="195" r="240" fill="url(#halo)" opacity=".26"/>
+<path d="M400 27V198 M800 27V198" stroke="#636C9D" stroke-opacity=".42" stroke-width="1.5"/>
+<text x="34" y="48" fill="#6BE6F4" font-family="monospace" font-size="15" letter-spacing="1.2" font-weight="700">01 / WP ECOSYSTEM</text><text x="34" y="99" fill="#F5F7FF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">POLARIZED TOOLKIT</text><text x="34" y="139" fill="#BFC8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">Forms, game integrations,</text><text x="34" y="167" fill="#BFC8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">campaign workflows and analytics</text><path d="M34 195h57" stroke="#6BE6F4" stroke-width="4" stroke-linecap="round"/>
+<text x="434" y="48" fill="#AA91FF" font-family="monospace" font-size="15" letter-spacing="1.2" font-weight="700">02 / INTERACTIVE GAMES</text><text x="434" y="99" fill="#F5F7FF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">POLARIZED GAMES</text><text x="434" y="139" fill="#BFC8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">Reusable mechanics and</text><text x="434" y="167" fill="#BFC8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">playable campaign experiences</text><path d="M434 195h57" stroke="#AA91FF" stroke-width="4" stroke-linecap="round"/>
+<text x="834" y="48" fill="#FF8BBF" font-family="monospace" font-size="15" letter-spacing="1.2" font-weight="700">03 / PRODUCT SYSTEMS</text><text x="834" y="99" fill="#F5F7FF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800">PRISM</text><text x="834" y="139" fill="#BFC8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">Dashboards, production tracking</text><text x="834" y="167" fill="#BFC8E6" font-family="Arial,Helvetica,sans-serif" font-size="19">and operational tooling</text><path d="M834 195h57" stroke="#FF8BBF" stroke-width="4" stroke-linecap="round"/>
+
+</svg>
