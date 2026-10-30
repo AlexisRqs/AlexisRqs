@@ -1,64 +1,93 @@
-# Hi, I'm Alexis 👋
+<div align="center">
 
-I'm a web developer, UI engineer and indie game developer.
-I build interactive experiences and reusable tools, from interface design
-and gameplay to deployment and analytics.
+# Alexis Roques
 
-My work brings together frontend development, creative coding
-and production workflows.
+### Web development · UI engineering · Indie games
 
-## What I'm building
+I build interfaces, interactive experiences and games —  
+from the first prototype to the tools that keep them running.
 
-### POLARIZED Games
-A growing collection of browser games and interactive campaign tools.
+**[Website](https://alexisrqs.com) · [BIP BOOP](https://bipboop.io) · [Play RETRO HORDE](https://bipboop.io/play/retro-horde/)**
 
-I'm working on reusable game mechanics, configurable templates
-and standalone builds that make it easier to turn a creative concept
-into a playable experience.
+</div>
 
-### POLARIZED Toolkit
-WordPress tooling for interactive campaigns, including promotional games,
-participation flows and analytics integrations.
+---
 
-A big part of this work is making recurring campaigns easier to configure,
-test and maintain.
+## From interfaces to playable worlds
 
-### BIP BOOP
-My independent game studio, focused on original games,
-distinctive visuals and satisfying gameplay.
+I'm a developer based in Nice, France. My work sits between frontend development, creative coding and game development. I enjoy the details that make an interface feel right, a game feel good, and a project easier to maintain.
 
-🎮 [Play RETRO HORDE](https://bipboop.io/play/retro-horde/)
- · [Explore BIP BOOP](https://bipboop.io)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## What I work on
+### ◇ POLARIZED
+**Interactive experiences & production tools**
 
-- **Interactive experiences** — browser games, promotional campaigns
-  and interactive Advent calendars.
-- **UI engineering** — responsive interfaces, reusable components
-  and design systems built from Figma to code.
-- **Production tooling** — shared mechanics, configuration workflows
-  and automation that reduce repetitive work.
-- **Delivery & reliability** — CI/CD, cloud hosting, performance,
-  analytics and end-to-end verification.
+I build browser games, promotional campaigns and interactive Advent calendars.
 
-## Tools I work with
+**POLARIZED Games** brings together reusable mechanics, configurable templates and standalone builds. **POLARIZED Toolkit** supports campaigns in WordPress, from participation flows to analytics.
 
-| Area | Technologies |
-| --- | --- |
-| Frontend & UI | React, Next.js, Tailwind CSS, shadcn/ui, Figma |
-| Web & backend | WordPress, Elementor, PHP, Node.js, Python, Supabase |
-| Games | Godot, Unity, PixiJS, C#, Aseprite |
-| Infrastructure | AWS, CloudFront, Cloudflare, Vercel, Plesk |
-| Analytics & delivery | Matomo, Git, GitHub Actions |
+[Explore POLARIZED on GitHub →](https://github.com/POLARIZEDdev)
 
-## How I build
+</td>
+<td width="50%" valign="top">
 
-I like turning one-off solutions into reusable systems.
+### ✦ BIP BOOP
+**Independent games & creative experiments**
 
-That means separating content and configuration from core logic,
-testing real user journeys, and checking what actually runs
-after deployment.
+My independent game studio, where I work on original games, distinctive visuals and satisfying gameplay.
 
-## Find me
+It's a space to explore ideas through code, art and play — and turn them into something you can try.
 
-[Website](https://alexisrqs.com) · [BIP BOOP](https://bipboop.io)
+[Play RETRO HORDE →](https://bipboop.io/play/retro-horde/)  
+[Explore BIP BOOP →](https://bipboop.io)
+
+</td>
+</tr>
+</table>
+
+## On my workbench
+
+Alongside web and indie game development, I explore **PlayStation Vita ports and platform adaptations**.
+
+| Project | What I'm exploring |
+| :--- | :--- |
+| [minishcap-vita](https://github.com/AlexisRqs/minishcap-vita) | An experimental native Vita port of *The Minish Cap*, building on upstream work. |
+| [pmd-vita](https://github.com/AlexisRqs/pmd-vita) | An experimental native Vita adaptation of *Pokémon Mystery Dungeon: Red Rescue Team*. |
+| [spire-vita](https://github.com/AlexisRqs/spire-vita) | An experimental Android ARMv7 loader and Vita adaptation for *Slay the Spire*. |
+
+These are unofficial, AI-assisted projects shared as source for review. Current publication candidates still need physical Vita validation; original game assets are not included.
+
+## How I work
+
+- **Design to implementation.** Responsive interfaces, reusable components and design systems, from Figma to code.
+- **Build once, adapt often.** Shared mechanics and configurable tools that make the next project easier.
+- **Follow through to delivery.** Deployment, performance, analytics and checks against real user journeys.
+
+<details>
+<summary><strong>Tools & technologies</strong></summary>
+
+<br>
+
+| Area | Tools |
+| :--- | :--- |
+| Interfaces | React · Next.js · Tailwind CSS · shadcn/ui · Figma |
+| Web & backend | WordPress · Elementor · PHP · Node.js · Python · Supabase |
+| Games & visuals | Godot · Unity · PixiJS · C# · Aseprite |
+| Infrastructure | AWS · CloudFront · Cloudflare · Vercel · Plesk |
+| Delivery & analytics | Git · GitHub Actions · Matomo |
+
+</details>
+
+---
+
+<div align="center">
+
+**Have a look around. Play something. Explore the code.**
+
+[alexisrqs.com](https://alexisrqs.com) · [bipboop.io](https://bipboop.io)
+
+<sub>And yes, I still like trains.</sub>
+
+</div>
