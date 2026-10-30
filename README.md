@@ -11,7 +11,7 @@
 I build interfaces, interactive experiences and games —  
 from the first prototype to the tools that keep them running.
 
-**[Website](https://alexisrqs.com) · [BIP BOOP](https://bipboop.io) · [Play RETRO HORDE](https://bipboop.io/en/play/retro-horde/)**
+**[Website](https://alexisrqs.com) · [BIP BOOP](https://bipboop.io) · [Play RETRO HORDE](https://bipboop.io/play/retro-horde/)**
 
 </div>
 
@@ -44,7 +44,7 @@ My independent game studio, where I work on original games, distinctive visuals 
 
 It's a space to explore ideas through code, art and play — and turn them into something you can try.
 
-[Play RETRO HORDE →](https://bipboop.io/en/play/retro-horde/)  
+[Play RETRO HORDE →](https://bipboop.io/play/retro-horde/)  
 [Explore BIP BOOP →](https://bipboop.io)
 
 </td>
