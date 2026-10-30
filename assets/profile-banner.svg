@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420">
+<title>Alexis Roques — Code, interfaces and games</title>
+<desc>A minimal graphic banner combining a browser window and a pixel platform game on a charcoal background.</desc>
+<rect width="1500" height="420" rx="18" fill="#171c22"/>
+<path d="M0 350H1500" stroke="#30373f"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="68" y="76" fill="#a0aaa9" font-size="17" letter-spacing="4">ALEXIS ROQUES / CREATIVE DEVELOPMENT</text>
+<text x="64" y="176" fill="#f0eee6" font-size="76" font-weight="700" letter-spacing="-3">Made to work.</text>
+<text x="64" y="262" fill="#b8e693" font-size="76" font-weight="700" letter-spacing="-3">Built to play.</text>
+<text x="68" y="390" fill="#a0aaa9" font-size="17" letter-spacing="2">WEB DEVELOPMENT + UI ENGINEERING + INDIE GAMES</text>
+<text x="1430" y="390" fill="#b8e693" font-size="17" text-anchor="end">AlexisRqs</text>
+</g>
+<g transform="translate(845 68)">
+<rect width="310" height="222" rx="10" fill="#20272e" stroke="#66736f" stroke-width="2"/>
+<path d="M0 37H310" stroke="#66736f" stroke-width="2"/>
+<g fill="#8a9790"><circle cx="18" cy="19" r="4"/><circle cx="34" cy="19" r="4"/><circle cx="50" cy="19" r="4"/></g>
+<g font-family="monospace" font-size="22">
+<text x="22" y="86" fill="#b8e693">&lt;playground&gt;</text>
+<text x="45" y="124" fill="#eeeae0">build();</text>
+<text x="45" y="158" fill="#eeeae0">play();</text>
+<text x="22" y="198" fill="#b8e693">&lt;/playground&gt;</text>
+</g>
+</g>
+<g fill="#b8e693" shape-rendering="crispEdges">
+<path d="M1200 278h64v12h-64z M1310 240h64v12h-64z M1396 202h64v12h-64z"/>
+<path d="M1326 184h24v8h8v24h-8v8h-8v-8h-8v8h-8v-8h-8v-24h8z"/>
+<path d="M1420 142h8v-8h8v8h8v8h-8v8h-8v-8h-8z"/>
+</g>
+<g fill="#171c22"><rect x="1326" y="196" width="6" height="6"/><rect x="1344" y="196" width="6" height="6"/></g>
+<path d="M1176 314h282" stroke="#66736f" stroke-width="2" stroke-dasharray="4 8"/>
+</svg>

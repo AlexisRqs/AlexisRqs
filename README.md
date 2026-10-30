@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Made to work. Built to play. — Web development, UI engineering and indie games" width="100%" />
+</p>
+
 <div align="center">
 
 # Alexis Roques
