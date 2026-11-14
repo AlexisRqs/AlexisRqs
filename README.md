@@ -28,7 +28,7 @@ I'm a developer based in Nice, France. My work sits between frontend development
 ### ◇ POLARIZED
 **Interactive experiences & production tools**
 
-I build browser games, promotional campaigns and interactive Advent calendars.
+I build browser games, promotional campaigns and interactive Advent calendars. For the 2026 calendars, I’ve been working on the full journey from opening a door on a phone to reading that day’s offer and coupon.
 
 **POLARIZED Games** brings together reusable mechanics, configurable templates and standalone builds. **POLARIZED Toolkit** supports campaigns in WordPress, from participation flows to analytics.
 
@@ -53,7 +53,9 @@ It's a space to explore ideas through code, art and play — and turn them into 
 
 ## On my workbench
 
-Alongside web and indie game development, I explore **PlayStation Vita ports and platform adaptations**.
+My current port is [**Spyro: A Hero’s Tail for PS Vita**](https://github.com/AlexisRqs/spyro-aht-vita). The runtime runs the European Xbox executable and renders the menu on a physical Vita. I’m profiling the menu frame by frame to understand where the handheld spends its time.
+
+My other Vita experiments:
 
 | Project | What I'm exploring |
 | :--- | :--- |
@@ -61,7 +63,7 @@ Alongside web and indie game development, I explore **PlayStation Vita ports and
 | [pmd-vita](https://github.com/AlexisRqs/pmd-vita) | An experimental native Vita adaptation of *Pokémon Mystery Dungeon: Red Rescue Team*. |
 | [spire-vita](https://github.com/AlexisRqs/spire-vita) | An experimental Android ARMv7 loader and Vita adaptation for *Slay the Spire*. |
 
-These are unofficial, AI-assisted projects shared as source for review. Current publication candidates still need physical Vita validation; original game assets are not included.
+These are unofficial, AI-assisted projects shared as source for review. The three projects in the table are awaiting physical Vita validation. Each repository documents the files needed from the original game.
 
 ## How I work
 
