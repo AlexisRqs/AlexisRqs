@@ -53,17 +53,16 @@ It's a space to explore ideas through code, art and play — and turn them into 
 
 ## On my workbench
 
-My current port is [**Spyro: A Hero’s Tail for PS Vita**](https://github.com/AlexisRqs/spyro-aht-vita). The runtime runs the European Xbox executable and renders the menu on a physical Vita. I’m profiling the menu frame by frame to understand where the handheld spends its time.
+My current project is the European Xbox edition of *Spyro: A Hero’s Tail*. I’m profiling the menu frame by frame on PS Vita.
 
-My other Vita experiments:
-
-| Project | What I'm exploring |
+| PS Vita port | Latest documented test on a physical Vita |
 | :--- | :--- |
-| [minishcap-vita](https://github.com/AlexisRqs/minishcap-vita) | An experimental native Vita port of *The Minish Cap*, building on upstream work. |
-| [pmd-vita](https://github.com/AlexisRqs/pmd-vita) | An experimental native Vita adaptation of *Pokémon Mystery Dungeon: Red Rescue Team*. |
-| [spire-vita](https://github.com/AlexisRqs/spire-vita) | An experimental Android ARMv7 loader and Vita adaptation for *Slay the Spire*. |
+| [Spyro: A Hero’s Tail](https://github.com/AlexisRqs/spyro-aht-vita) | Reached the title screen, main menu and save-slot screen. Three development builds averaged 1.19–1.41 FPS over frames 30–45 of the menu. |
+| [The Legend of Zelda: The Minish Cap](https://github.com/AlexisRqs/minishcap-vita) | In v0.05, settings opened from LiveArea and audio resumed after waking the Vita. The v0.06 rebuild awaits a hardware test. |
+| [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/AlexisRqs/pmd-vita) | Earlier builds ran on the handheld. The v0.47 rebuild, which adds French mission reward dialogue, awaits a hardware test. |
+| [Slay the Spire](https://github.com/AlexisRqs/spire-vita) | A development build measured 38.7–39.9 FPS in a five-card Guardian scene. The build reconstructed from the public sources awaits a hardware test. |
 
-These are unofficial, AI-assisted projects shared as source for review. The three projects in the table are awaiting physical Vita validation. Each repository documents the files needed from the original game.
+These are unofficial, AI-assisted projects shared as source for review. Each repository documents the files needed from the original game.
 
 ## How I work
 
