@@ -57,7 +57,7 @@ My current project is the European Xbox edition of *Spyro: A Hero’s Tail*. I�
 
 | PS Vita port | Latest documented test on a physical Vita |
 | :--- | :--- |
-| [Slay the Spire](https://github.com/AlexisRqs/spire-vita) | A development build measured 38.7–39.9 FPS in a five-card Guardian scene. The build reconstructed from the public sources awaits a hardware test. |
+| [Slay the Spire](https://github.com/AlexisRqs/spire-vita) | Ports the Android version to PS Vita using an ARMv7 loader. A development build measured 38.7–39.9 FPS in a five-card Guardian scene on hardware. The build reconstructed from the public sources awaits a hardware test. |
 | [Spyro: A Hero’s Tail](https://github.com/AlexisRqs/spyro-aht-vita) | Reached the title screen, main menu and save-slot screen. Three development builds averaged 1.19–1.41 FPS over frames 30–45 of the menu. |
 | [Pokémon Mystery Dungeon: Red Rescue Team](https://github.com/AlexisRqs/pmd-vita) | Earlier builds ran on the handheld. The v0.47 rebuild, which adds French mission reward dialogue, awaits a hardware test. |
 | [The Legend of Zelda: The Minish Cap](https://github.com/AlexisRqs/minishcap-vita) | In v0.05, settings opened from LiveArea and audio resumed after waking the Vita. The v0.06 rebuild awaits a hardware test. |
